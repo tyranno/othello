@@ -1,3 +1,2 @@
-# GitHub Pages: privacy.md → privacy.html 로 바꿔 줌. 게임 파일은 그대로 올라감
 title: 톡톡 뒤집기
-exclude: [README.md]
+exclude: [README.md, docs]
