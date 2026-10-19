@@ -1,5 +1,7 @@
 # 톡톡 뒤집기 개인정보 처리방침
 
+*English version below — [TokTok Flip Privacy Policy (English)](#toktok-flip--privacy-policy-english)*
+
 시행일: 2026년 10월 16일
 
 **톡톡 뒤집기**(이하 "앱", 개발자 tyranno)는 이용자에게 이름, 이메일, 전화번호 같은 개인정보를 직접 묻거나 모으지 않습니다. 다만 앱에 들어 있는 **광고(Google AdMob)** 가 광고를 보여 주려고 아래 정보를 쓸 수 있습니다.
@@ -31,3 +33,39 @@
 
 ## 7. 문의
 문의: tyranno1223@gmail.com
+
+---
+
+# TokTok Flip — Privacy Policy (English)
+
+Effective date: October 16, 2026
+
+**TokTok Flip** (the "App", developer: tyranno) does not ask for or collect personal information such as your name, email address, or phone number. However, the **advertising service in the App (Google AdMob)** may use the information below to show ads.
+
+## 1. Information stored only on your device
+Your game progress (cleared stages, stars, coins, hearts, items, rating, check-in/mission/puzzle records, sound and language settings) is stored **only on your device** and is never sent to the developer. It is deleted when you uninstall the App.
+
+## 2. Advertising (Google AdMob)
+- The App shows **rewarded ads that you choose to watch** (e.g. to get hearts or double rewards) and occasional **interstitial ads** between games. You can play without watching rewarded ads.
+- Ads are served by Google AdMob, which may collect and use your **advertising ID, device and app information (model, OS, language, etc.), IP address, and ad interaction history** to show ads, measure ad performance, and prevent fraud.
+- How Google uses this information: https://policies.google.com/technologies/partner-sites
+- To opt out of personalized ads, reset or delete your advertising ID in your phone's **Settings → Google → Ads**.
+- In regions that require consent (such as the EEA, the UK, Switzerland, and some US states), a consent form appears first, and you can change your choice anytime in the App under **Settings (⚙️) → Ad privacy**.
+
+## 3. Internet use
+The App uses the internet **only to load ads**. You can play without an internet connection. There is no login, leaderboard, or analytics tool.
+
+## 4. Device permissions
+- **Internet / network state**: to load ads
+- **Notifications**: to tell you when your hearts are full or a new daily puzzle is ready (you can play without allowing this)
+- **Vibration**: short haptic feedback
+The App does not use other permissions such as photos, location, contacts, or microphone.
+
+## 5. Children
+The App is not primarily directed at children under 13 and does not knowingly collect personal information from children.
+
+## 6. Changes
+If this policy changes, we will post the update on this page and revise the effective date.
+
+## 7. Contact
+Contact: tyranno1223@gmail.com
