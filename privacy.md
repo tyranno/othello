@@ -9,17 +9,17 @@ layout: default
 
 시행일: 2026년 10월 25일
 
-**톡톡 뒤집기**(이하 "앱", 개발자 tyranno)는 이용자에게 이름, 이메일, 전화번호 같은 개인정보를 직접 묻거나 모으지 않습니다. 다만 앱에 들어 있는 **광고(Google AdMob, AppLovin, Unity Ads)** 가 광고를 보여 주려고 아래 정보를 쓸 수 있습니다.
+**톡톡 뒤집기**(이하 "앱", 개발자 tyranno)는 이용자에게 이름, 이메일, 전화번호 같은 개인정보를 직접 묻거나 모으지 않습니다. 다만 앱에 들어 있는 **광고(Google AdMob, Pangle, Unity Ads)** 가 광고를 보여 주려고 아래 정보를 쓸 수 있습니다.
 
 ## 1. 기기 안에만 저장되는 정보
 게임 진행 기록(깬 단계, 별, 동전, 하트, 아이템, 등급 점수, 출석·미션·퍼즐 기록, 소리 설정)은 **이용자의 기기 안에만** 저장되며, 개발자에게 보내지지 않습니다. 앱을 지우면 함께 지워집니다.
 
-## 2. 광고 (Google AdMob · AppLovin · Unity Ads)
+## 2. 광고 (Google AdMob · Pangle · Unity Ads)
 - 앱에는 **이용자가 원할 때만 보는 보상형 광고**(예: 하트 받기, 보상 2배)와, 판이 끝난 뒤 가끔 나오는 **전면 광고**가 있습니다. 보상형 광고는 보지 않아도 게임을 할 수 있습니다.
-- 광고는 Google AdMob이 보여 주며, Google 광고가 없을 때는 **AppLovin** 또는 **Unity Ads**가 대신 보여 줍니다. 이때 광고 회사가 **광고 ID, 기기·앱 정보(기종, 운영체제, 언어 등), IP 주소, 광고를 본 기록**을 모으고 쓸 수 있습니다. 이 정보는 광고를 보여 주고, 광고 성과를 재고, 부정 클릭을 막는 데 쓰입니다.
+- 광고는 Google AdMob이 보여 주며, Google 광고가 없을 때는 **Pangle** 또는 **Unity Ads**가 대신 보여 줍니다. 이때 광고 회사가 **광고 ID, 기기·앱 정보(기종, 운영체제, 언어 등), IP 주소, 광고를 본 기록**을 모으고 쓸 수 있습니다. 이 정보는 광고를 보여 주고, 광고 성과를 재고, 부정 클릭을 막는 데 쓰입니다.
 - 광고 회사가 정보를 어떻게 쓰는지:
   - Google: https://policies.google.com/technologies/partner-sites
-  - AppLovin: https://www.applovin.com/privacy/
+  - Pangle: https://www.pangleglobal.com/privacy/partner-en
   - Unity: https://unity.com/legal/game-player-and-app-user-privacy-policy
 - 맞춤 광고를 원하지 않으면 휴대폰의 **설정 → Google → 광고**에서 광고 ID를 지우거나 재설정할 수 있습니다.
 - 유럽 등 동의가 필요한 곳에서는 처음에 동의 창이 뜨며, 앱의 **설정(⚙️) → 광고 개인정보**에서 언제든 바꿀 수 있습니다.
@@ -48,17 +48,17 @@ layout: default
 
 Effective date: October 25, 2026
 
-**TokTok Flip** (the "App", developer: tyranno) does not ask for or collect personal information such as your name, email address, or phone number. However, the **advertising services in the App (Google AdMob, AppLovin, Unity Ads)** may use the information below to show ads.
+**TokTok Flip** (the "App", developer: tyranno) does not ask for or collect personal information such as your name, email address, or phone number. However, the **advertising services in the App (Google AdMob, Pangle, Unity Ads)** may use the information below to show ads.
 
 ## 1. Information stored only on your device
 Your game progress (cleared stages, stars, coins, hearts, items, rating, check-in/mission/puzzle records, sound and language settings) is stored **only on your device** and is never sent to the developer. It is deleted when you uninstall the App.
 
-## 2. Advertising (Google AdMob · AppLovin · Unity Ads)
+## 2. Advertising (Google AdMob · Pangle · Unity Ads)
 - The App shows **rewarded ads that you choose to watch** (e.g. to get hearts or double rewards) and occasional **interstitial ads** between games. You can play without watching rewarded ads.
-- Ads are served by Google AdMob, and by **AppLovin** or **Unity Ads** when no Google ad is available. These ad networks may collect and use your **advertising ID, device and app information (model, OS, language, etc.), IP address, and ad interaction history** to show ads, measure ad performance, and prevent fraud.
+- Ads are served by Google AdMob, and by **Pangle** or **Unity Ads** when no Google ad is available. These ad networks may collect and use your **advertising ID, device and app information (model, OS, language, etc.), IP address, and ad interaction history** to show ads, measure ad performance, and prevent fraud.
 - How the ad networks use this information:
   - Google: https://policies.google.com/technologies/partner-sites
-  - AppLovin: https://www.applovin.com/privacy/
+  - Pangle: https://www.pangleglobal.com/privacy/partner-en
   - Unity: https://unity.com/legal/game-player-and-app-user-privacy-policy
 - To opt out of personalized ads, reset or delete your advertising ID in your phone's **Settings → Google → Ads**.
 - In regions that require consent (such as the EEA, the UK, Switzerland, and some US states), a consent form appears first, and you can change your choice anytime in the App under **Settings (⚙️) → Ad privacy**.
